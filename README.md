@@ -17,9 +17,9 @@
 > 这里是引用
 </br>
 9.无序列表：</br>
-- bulleted list1 </br>
-+ bulleted list2 </br>
-* bulleted list3 </br>
+<li> bulleted list1 </br>
+<li> bulleted list2 </br>
+<li> bulleted list3 </br>
 10.有序列表：</br>
 11.表格：
 星期一|星期二|星期三
