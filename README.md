@@ -16,8 +16,8 @@
 8.引用：</br>
 > 这里是引用
 </br>
-9.bulleted list：
-- bulleted list1
-+ bulleted list2
-* bulleted list3
+9.bulleted list：</br>
+- bulleted list1 </br>
++ bulleted list2 </br>
+* bulleted list3 </br>
 
