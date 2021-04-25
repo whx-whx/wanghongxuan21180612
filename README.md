@@ -4,4 +4,11 @@
 4.外部网站链接 [百度](https://www.baidu.com/)</br>
 5. ![目录中的图片](whx.jpg)</br>
 6. [web上的图片](https://img2.baidu.com/it/u=1070003001,653753576&fm=26&fmt=auto&gp=0.jpg)</br>
-7. 
+7. 代码块</br>
+  ```
+  #include <stdio.h>
+  void main(){
+    printf("hello world!");
+    return;
+  }
+  ```
