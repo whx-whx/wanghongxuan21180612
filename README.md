@@ -17,7 +17,7 @@
 > 这里是引用
 </br>
 9.bulleted list：
--bulleted list1
-+bulleted list2
-*bulleted list3
+- bulleted list1
++ bulleted list2
+* bulleted list3
 
