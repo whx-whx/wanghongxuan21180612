@@ -16,8 +16,16 @@
 8.引用：</br>
 > 这里是引用
 </br>
-9.bulleted list：</br>
+9.无序列表：</br>
 - bulleted list1 </br>
 + bulleted list2 </br>
 * bulleted list3 </br>
+10.有序列表：</br>
+11.表格：
+星期一|星期二|星期三
+------|------|------
+语文|数学|英语
+数学|英语|语文
+英语|语文|数学
+
 
